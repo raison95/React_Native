@@ -1,7 +1,8 @@
 # React_Native
 
-__[1.ToDo List](#ToDo_List)__  
-__[2.Chat Application](#Chat_Application)__  
+__[1. ToDo List](#ToDo_List)__
+  
+__[2. Chat Application](#Chat_Application)__  
   
 ---
 
